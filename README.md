@@ -11,4 +11,4 @@ Then from one view, you can change the date using gestures or a datepicker to qu
 
 Since it's my first public attempt, I will try to make it perfect
 
-I have to thank [Petros](https://github.com/petros) and [Vassilis](https://github.com/damphyr) for guiding me and [Panagiotis](https://github.com/konstantinos2012).
+I have to thank [Petros](https://github.com/petros) and [Vassilis](https://github.com/damphyr) for guiding me and [Panagiotis](https://github.com/konstantinos2012) for introducing them.
