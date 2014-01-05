@@ -1,4 +1,4 @@
 eortes
 ======
 
-An simple android application using a local database
+A simple android application using a local database
